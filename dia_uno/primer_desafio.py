@@ -1,0 +1,2 @@
+# El objetivo de este algoritmo es combinar dos palabras para darle nombre a una marca de cerveza
+print("La cerveza se llama\n" + input("Dime la ciudad de origen: ") + " " + input("Dime algo que represente tu cerveza: ")) 
