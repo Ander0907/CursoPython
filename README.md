@@ -6,7 +6,9 @@ Este repositorio fue creado basándome en los conocimientos adquiridos en el sig
 🗂 Estructura del Repositorio
 
 📅 Días: El contenido está dividido por días, con un desafío práctico en cada uno que pone en práctica los conocimientos adquiridos hasta ese momento.
+
 📝 Ejercicios prácticos: Una carpeta con ejercicios adicionales para reforzar los aprendizajes.
+
 ⚙️ Carpeta utils: Contiene archivos y funciones útiles para facilitar el desarrollo de los desafíos.
 
 
