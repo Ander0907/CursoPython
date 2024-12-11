@@ -11,4 +11,5 @@ Este repositorio fue creado basándome en los conocimientos adquiridos en el sig
 
 
 👨‍💻 Estructura de los Proyectos
+
 📆 Día 1 a Día 9: Los proyectos son de consola, enfocados en el desarrollo de aplicaciones que se ejecutan en la terminal
