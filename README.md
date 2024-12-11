@@ -12,6 +12,6 @@ Este repositorio fue creado basándome en los conocimientos adquiridos en el sig
 ⚙️ Carpeta utils: Contiene archivos y funciones útiles para facilitar el desarrollo de los desafíos.
 
 
-# 👨‍💻 Estructura de los Proyectos
+## 👨‍💻 Estructura de los Proyectos
 
 📆 Día 1 a Día 9: Los proyectos son de consola, enfocados en el desarrollo de aplicaciones que se ejecutan en la terminal
