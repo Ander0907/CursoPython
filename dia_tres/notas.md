@@ -1,0 +1,1 @@
+En este día se aprendio el manejo de listas y sus metodos, tuplas y diccionarios, manipulacion de cadenas de texto, formateo de cadenas, acceso a indices

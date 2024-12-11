@@ -1,0 +1,1 @@
+En este dia se aprendió el uso de clases, los diferentes tipos de estas, atributos propios y llamado de archivos desde otra parte de la aplicación.

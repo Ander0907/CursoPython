@@ -1,0 +1,1 @@
+En este segundo día se aprendió a convetir tipos de datos, forma adecuada de declarar variables, hacer operaciones matematicas y redodear resultados decimales

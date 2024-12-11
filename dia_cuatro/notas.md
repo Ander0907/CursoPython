@@ -1,0 +1,1 @@
+En este día se aprendio el uso de la libreria ramdom, como usar los condicionales if, elif y else, ciclos

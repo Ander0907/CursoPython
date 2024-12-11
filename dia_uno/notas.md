@@ -1,0 +1,1 @@
+En este primer dia se aprendió como imprimir y ingresar contenido por consola.
