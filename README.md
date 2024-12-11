@@ -3,7 +3,7 @@
 Este repositorio fue creado basándome en los conocimientos adquiridos en el siguiente curso de Udemy: https://www.udemy.com/share/105HkM3@WVhSopf2a_86mn9Cv8nA30xHiJpVReGPCnHiCkl5FwxvUzTCyMwOMydnPOluRMXYuQ==/
 
 
-# 🗂 Estructura del Repositorio
+## 🗂 Estructura del Repositorio
 
 📅 Días: El contenido está dividido por días, con un desafío práctico en cada uno que pone en práctica los conocimientos adquiridos hasta ese momento.
 
