@@ -21,3 +21,5 @@ Este repositorio fue creado basándome en los conocimientos adquiridos en el sig
 🔍 Día 11: Este proyecto esta relacionado con el uso del WebScraping.
 
 📊 Día 12: Este proyecto consiste en un programa de facturación con una interfaz gráfica desarrollada en Tkinter. 
+
+🤖 Día 13: En proyecto se desarrolló un asistente virtual muy gracioso. 
