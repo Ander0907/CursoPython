@@ -1,10 +1,6 @@
-En este día se aprendió como hacer un programa de facturación con interfaz grafica.
+En este día se desarrolló un videojuego.
 
 Requisitos para ejecutar el contenido de este dia:
 - Tener instalado cualquier versión de Python
 - Recomendable un editor con la extención de python para una ejecución más facil.
-
-bg = Color de fondo
-bd = Borde
-relief = Relieve
-fg = Color de frente
+- Tener instalado la libreria pygame en el equipo, para esto ejecuta el siguiente comando en la terminal: pip install pygame
