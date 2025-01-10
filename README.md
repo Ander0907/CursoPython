@@ -22,4 +22,6 @@ Este repositorio fue creado basándome en los conocimientos adquiridos en el sig
 
 📊 Día 12: Este proyecto consiste en un programa de facturación con una interfaz gráfica desarrollada en Tkinter. 
 
-🤖 Día 13: En este proyecto se desarrolló un asistente virtual muy gracioso. 
+🤖 Día 13: En este día se desarrolló un asistente virtual muy gracioso.
+
+Día 16: En este día se desarrolló un aplicativo web de tareas pendientes.
