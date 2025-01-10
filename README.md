@@ -24,4 +24,7 @@ Este repositorio fue creado basándome en los conocimientos adquiridos en el sig
 
 🤖 Día 13: En este día se desarrolló un asistente virtual muy gracioso.
 
-Día 16: En este día se desarrolló un aplicativo web de tareas pendientes.
+
+## 👨‍💻 Otros repositorios relacionados
+
+Día 16: En este día se desarrolló un aplicativo web de tareas pendientes: https://github.com/Ander0907/CursoPythonDjango
