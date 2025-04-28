@@ -24,7 +24,11 @@ Este repositorio fue creado basándome en los conocimientos adquiridos en el sig
 
 🤖 Día 13: En este día se desarrolló un asistente virtual muy gracioso.
 
+📸 Día 14: En este día se desarrolló un sistema de reconocimiento facial para registrar el ingreso de personal al trabajo.
+
 
 ## 👨‍💻 Otros repositorios relacionados
 
-Día 16: En este día se desarrolló un aplicativo web de tareas pendientes: https://github.com/Ander0907/CursoPythonDjango
+🔗 Día 16: En este día se desarrolló un aplicativo web de tareas pendientes: https://github.com/Ander0907/CursoPythonDjango
+
+🔗 Proyecto de gestión de contactos con Django: https://github.com/Ander0907/FastContact
